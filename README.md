@@ -35,17 +35,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://www.youtube.com/watch?v=EkgxlXm02eA' />
+https://www.youtube.com/watch?v=EkgxlXm02eA 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video Recorded on Zoom
+
 
 ## Notes
-
+Trouble creating the delete content creator as it used modal pop up.
 
 ## License
 
