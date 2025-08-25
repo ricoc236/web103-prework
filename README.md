@@ -1,8 +1,8 @@
-# WEB103 Prework - *👉🏿 Name of App Here*
+# WEB103 Prework - Creatorverse
 
-Submitted by: **👉🏿 your name here**
+Submitted by: Rico Chen
 
-About this web app: **👉🏿 app description here**
+About this web app: Upload a blog on your favorite content creators. Create a section to list their platform and shout them out!
 
 Time spent: **👉🏿 X** hours
 
@@ -10,7 +10,7 @@ Time spent: **👉🏿 X** hours
 
 The following **required** functionality is completed:
 
-<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
+
 - [X] **A logical component structure in React is used to create the frontend of the app**
 - [X] **At least five content creators are displayed on the homepage of the app**
 - [X] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://www.youtube.com/watch?v=EkgxlXm02eA' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
@@ -46,11 +46,10 @@ GIF created with ...  👉🏿 GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright [2025] [Rico Chen]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
