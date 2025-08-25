@@ -4,7 +4,7 @@ Submitted by: Rico Chen
 
 About this web app: Upload a blog on your favorite content creators. Create a section to list their platform and shout them out!
 
-Time spent: **👉🏿 X** hours
+Time spent: 10 hours
 
 ## Required Features
 
