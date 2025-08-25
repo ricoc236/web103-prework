@@ -41,7 +41,7 @@ Video Recorded on Zoom
 
 
 ## Notes
-Trouble creating the delete content creator as it used modal pop up.
+Trouble creating the delete content creator as it used modal pop up. Which is something new to me
 
 ## License
 
